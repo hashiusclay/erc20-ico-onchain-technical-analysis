@@ -1,4 +1,4 @@
-from analysis.bussiness_logic import main_business_logic
+from analysis.business_logic import main_business_logic
 import data.whale_data as wd
 
 #exchange_accounts
